@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\chapter_4">
+      <UniqueIdentifier>{029d93b0-8719-47c4-8262-2f9eced2b59a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_3">
+      <UniqueIdentifier>{1bb8b97e-4f91-4488-8f84-a66cb0b3045c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_2">
+      <UniqueIdentifier>{182d61a7-62aa-4dc9-bd86-48f79a825d87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_5">
+      <UniqueIdentifier>{97e995f9-2b0b-4d4d-a9b0-4516ebaa639a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_6">
+      <UniqueIdentifier>{311cad83-529c-4635-81cc-25936069795c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_7">
+      <UniqueIdentifier>{16ebecb7-f1bd-4282-b96c-11afbfe3e048}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_8">
+      <UniqueIdentifier>{02b45081-bcfb-4182-a56b-8661e6899927}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_9">
+      <UniqueIdentifier>{bae9400d-96df-4775-86dd-98101346db36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_10">
+      <UniqueIdentifier>{213875eb-5e90-4650-9bc9-30f041398eac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_10\data">
+      <UniqueIdentifier>{43feed05-4673-400e-b83c-f684f23cdcef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_11">
+      <UniqueIdentifier>{cb92372d-7108-418b-930a-1ed98a8a3aa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chapter_11\data">
+      <UniqueIdentifier>{6b690737-5742-458d-a7ca-18e6dd6d1c66}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="std_lib_facilities.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="chapter_1.cpp">
+      <Filter>소스 파일\chapter_2</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_2_1.cpp">
+      <Filter>소스 파일\chapter_3</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_2_2.cpp">
+      <Filter>소스 파일\chapter_3</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_2_3.cpp">
+      <Filter>소스 파일\chapter_3</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_2_4.cpp">
+      <Filter>소스 파일\chapter_3</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_2_실습.cpp">
+      <Filter>소스 파일\chapter_3</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_2_연습_1.cpp">
+      <Filter>소스 파일\chapter_3</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_4_1.cpp">
+      <Filter>소스 파일\chapter_4</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_4_6.cpp">
+      <Filter>소스 파일\chapter_4</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_4_연습_1.cpp">
+      <Filter>소스 파일\chapter_4</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_4_연습_2.cpp">
+      <Filter>소스 파일\chapter_4</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_4_연습_3.cpp">
+      <Filter>소스 파일\chapter_4</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_4_연습_4.cpp">
+      <Filter>소스 파일\chapter_4</Filter>
+    </ClCompile>
+    <ClCompile Include="5_1.cpp">
+      <Filter>소스 파일\chapter_5</Filter>
+    </ClCompile>
+    <ClCompile Include="5_7.cpp">
+      <Filter>소스 파일\chapter_5</Filter>
+    </ClCompile>
+    <ClCompile Include="5_8.cpp">
+      <Filter>소스 파일\chapter_5</Filter>
+    </ClCompile>
+    <ClCompile Include="5_11.cpp">
+      <Filter>소스 파일\chapter_5</Filter>
+    </ClCompile>
+    <ClCompile Include="계산기.cpp">
+      <Filter>소스 파일\chapter_6</Filter>
+    </ClCompile>
+    <ClCompile Include="6_4.cpp">
+      <Filter>소스 파일\chapter_6</Filter>
+    </ClCompile>
+    <ClCompile Include="6_9.cpp">
+      <Filter>소스 파일\chapter_6</Filter>
+    </ClCompile>
+    <ClCompile Include="6_10.cpp">
+      <Filter>소스 파일\chapter_6</Filter>
+    </ClCompile>
+    <ClCompile Include="계산기_2.cpp">
+      <Filter>소스 파일\chapter_7</Filter>
+    </ClCompile>
+    <ClCompile Include="8_2.cpp">
+      <Filter>소스 파일\chapter_8</Filter>
+    </ClCompile>
+    <ClCompile Include="6_5.cpp">
+      <Filter>소스 파일\chapter_8</Filter>
+    </ClCompile>
+    <ClCompile Include="8_7.cpp">
+      <Filter>소스 파일\chapter_8</Filter>
+    </ClCompile>
+    <ClCompile Include="8_8.cpp">
+      <Filter>소스 파일\chapter_8</Filter>
+    </ClCompile>
+    <ClCompile Include="8_10.cpp">
+      <Filter>소스 파일\chapter_8</Filter>
+    </ClCompile>
+    <ClCompile Include="8_12.cpp">
+      <Filter>소스 파일\chapter_8</Filter>
+    </ClCompile>
+    <ClCompile Include="9_2.cpp">
+      <Filter>소스 파일\chapter_9</Filter>
+    </ClCompile>
+    <ClCompile Include="9_5.cpp">
+      <Filter>소스 파일\chapter_9</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter_10.cpp">
+      <Filter>소스 파일\chapter_10</Filter>
+    </ClCompile>
+    <ClCompile Include="10_1.cpp">
+      <Filter>소스 파일\chapter_10</Filter>
+    </ClCompile>
+    <ClCompile Include="temperature.cpp">
+      <Filter>소스 파일\chapter_10</Filter>
+    </ClCompile>
+    <ClCompile Include="10_2.cpp">
+      <Filter>소스 파일\chapter_10</Filter>
+    </ClCompile>
+    <ClCompile Include="10_3.cpp">
+      <Filter>소스 파일\chapter_10</Filter>
+    </ClCompile>
+    <ClCompile Include="11_1.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11_8.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11_9.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11_연습_1.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11_2.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11_4.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11_6.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11_7.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11_10.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11_12.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="11_13.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+    <ClCompile Include="bookMarkSort.cpp">
+      <Filter>소스 파일\chapter_11</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="mydata.txt">
+      <Filter>소스 파일\chapter_10\data</Filter>
+    </Text>
+    <Text Include="10_1.txt">
+      <Filter>소스 파일\chapter_10\data</Filter>
+    </Text>
+    <Text Include="temperature.txt">
+      <Filter>소스 파일\chapter_10\data</Filter>
+    </Text>
+    <Text Include="raw_temps.txt">
+      <Filter>소스 파일\chapter_10\data</Filter>
+    </Text>
+    <Text Include="temperature2.txt">
+      <Filter>소스 파일\chapter_10\data</Filter>
+    </Text>
+    <Text Include="11_1_input.txt">
+      <Filter>소스 파일\chapter_11\data</Filter>
+    </Text>
+    <Text Include="11_1_output.txt">
+      <Filter>소스 파일\chapter_11\data</Filter>
+    </Text>
+    <Text Include="11_2.txt">
+      <Filter>소스 파일\chapter_11\data</Filter>
+    </Text>
+    <Text Include="11_12.txt">
+      <Filter>소스 파일\chapter_11\data</Filter>
+    </Text>
+    <Text Include="11_13.txt">
+      <Filter>소스 파일\chapter_11\data</Filter>
+    </Text>
+    <Text Include="bookmarks.txt">
+      <Filter>소스 파일\chapter_11\data</Filter>
+    </Text>
+    <Text Include="sortbookmarks.txt">
+      <Filter>소스 파일\chapter_11\data</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
